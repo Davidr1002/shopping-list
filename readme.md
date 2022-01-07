@@ -1,3 +1,6 @@
 - bacon
 - eggs
 - xbox
+- milch
+- mehl
+- futter
